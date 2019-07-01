@@ -1,5 +1,6 @@
 === WP Tasks ===
-Contributors: PluginsBay
+Contributors: PluginsBay, WPorb
+Author: StefanPejcic
 Author URI: https://pluginsbay.com/
 Tags: task, client, projects, tasks, management, todo, list, GTD, manage projects, project management, task management, team, planning, tracking
 Requires at least: 4.8
