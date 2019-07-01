@@ -1,5 +1,4 @@
 <div class="wrap">
-	<img src="<?php echo plugins_url('/img/logo.32.png', TASK_ROOT_FILE); ?>" class="icon32" style="background:none"/>
 	<h2><?php _e('Dashboard', 'tasks'); ?></h2>
 	<div id="welcome-panel" class="welcome-panel">
 		<div class="welcome-panel-content">
@@ -72,51 +71,16 @@
 				</div>
 			</div>
 			<p class="about-description">
-				<?php printf(__('Please consider <a href="%s" target="_blank">making a donation</a> if you enjoy using TFWP plugin.', 'tasks'), 'http://www.tasks.com'); ?>
+				<?php printf(__('If you enjoy using this free plugin, pleace consider <a href="%s" target="_blank">leaving a review on WordPress.org</a>', 'tasks'), 'https://pluginsbay.com/plugin/tasks/'); ?>
 			</p>
 		</div>
 	</div>
-	<div id="welcome-panel" class="welcome-panel">
-		<div class="welcome-panel-content">
-			<h3>Need Help?</h3>
-			<p class="about-description">
-				<?php printf(__( 'Below are some video tutorials that show you how to create tasks, assign them, collaborate, etc.<br><br>', 'tasks' ), 'http://www.tasks.com'); ?>
-			</p>
-			<div class="welcome-panel-column-container">
-				<div class="welcome-panel-column task-dash-col3">
-					<p>Adding [task_all] Shortcode</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				<div class="welcome-panel-column task-dash-col3">
-					<p>Create a Project</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				<div class="welcome-panel-column task-dash-col3">
-					<p>Assign Tasks</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-			</div>
-			<div class="welcome-panel-column-container">
-				<div class="welcome-panel-column task-dash-col3">
-					<p>Create Tasks</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				<div class="welcome-panel-column task-dash-col3">
-					<p>Front-end Styling</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-				<div class="welcome-panel-column task-dash-col3">
-					<p>this is a third</p>
-					<iframe src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 	<div>
 		<div class="welcome-panel-content">
 			<h3 align="center">
 			<br>
-			<a href="#">★★★★★ Leave a Review</a> | <a href="#">Get Support</a> | <a href="#">Request a Feature</a>
+			<a href="https://pluginsbay.com/testimonials">★★★★★ Leave a Review</a> | <a href="https://pluginsbay.com/support">Get Support</a> | <a href="https://pluginsbay.com/request">Request a Feature</a>
 			</h3>
 		</div>
 	</div>
